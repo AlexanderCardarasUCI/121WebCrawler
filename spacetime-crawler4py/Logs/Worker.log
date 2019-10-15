@@ -1,0 +1,22 @@
+2019-10-14 17:50:43,097 - Worker-0 - INFO - Downloaded https://www.stat.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 17:50:43,643 - Worker-0 - INFO - Downloaded https://www.informatics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 17:50:44,178 - Worker-0 - INFO - Downloaded https://www.cs.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 17:50:44,725 - Worker-0 - INFO - Downloaded https://www.ics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 17:50:45,245 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.
+2019-10-14 17:56:54,313 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.
+2019-10-14 17:58:54,457 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.
+2019-10-14 17:59:52,179 - Worker-0 - INFO - Downloaded https://www.stat.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 17:59:52,720 - Worker-0 - INFO - Downloaded https://www.informatics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 17:59:53,259 - Worker-0 - INFO - Downloaded https://www.cs.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 17:59:53,810 - Worker-0 - INFO - Downloaded https://www.ics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 17:59:54,333 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.
+2019-10-14 18:02:15,415 - Worker-0 - INFO - Downloaded https://www.stat.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 18:02:15,963 - Worker-0 - INFO - Downloaded https://www.informatics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 18:02:16,503 - Worker-0 - INFO - Downloaded https://www.cs.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 18:02:17,048 - Worker-0 - INFO - Downloaded https://www.ics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 18:02:17,570 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.
+2019-10-14 18:03:56,588 - Worker-0 - INFO - Downloaded https://www.stat.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 18:03:57,129 - Worker-0 - INFO - Downloaded https://www.informatics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 18:03:57,671 - Worker-0 - INFO - Downloaded https://www.cs.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 18:03:58,215 - Worker-0 - INFO - Downloaded https://www.ics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9001).
+2019-10-14 18:03:58,736 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.
